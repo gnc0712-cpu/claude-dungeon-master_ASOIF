@@ -1,6 +1,15 @@
 # Spellcasting
 
-Reference: `dnd-5e-srd/markdown/08 spellcasting.md`
+Reference: `dnd-5e-srd/markdown/08 spellcasting.md`, `dm-instructions/setting-westeros.md`, `dm-instructions/character-sheets.md`
+
+## Magic in a Low-Magic World
+
+True magic is rare and mostly disbelieved by ordinary people — septons preach against it, maesters study it skeptically, and most smallfolk have never witnessed it firsthand. **Player spellcasters are the deliberate exception**: they get full, unmodified standard 5e spellcasting exactly as written below — no reduced slots, no extra costs, no restricted spell lists. What changes is entirely narrative:
+
+- **Reflavor the source and delivery** of every spell to match the class reflavoring in `dm-instructions/character-sheets.md` (a red priest's fire-scrying, a maester's forbidden higher mysteries, a warg's greenseeing, a Faceless Man's poisons-and-faces craft, etc.) rather than generic D&D spell names.
+- **Play the world's reaction honestly.** A PC casting a visible spell in front of smallfolk, a septon, or a rival House should provoke fear, rumor, religious alarm, or opportunistic blackmail — not a shrug. This is a roleplay/consequence layer, not a mechanical nerf.
+- **Rare doesn't mean secret by default** — a party can absolutely include an openly magical character (a known red priestess, a maester who's shed pretense) — just make sure the *social* cost of that visibility is real and tracked (see Honor/Renown/Infamy in `dm-instructions/houses-and-honor.md`).
+- **NPC spellcasters should stay rare** by contrast — most NPC "magic" the party encounters should be legend, fraud, ambiguous omens, or genuinely dangerous when it's real, reinforcing why the PC's own power feels exceptional.
 
 ## Spell Slot Tracking
 
@@ -143,7 +152,7 @@ Make spellcasting feel significant:
 
 **Mechanical**: "I cast Fireball."
 
-**Better**: "Vira traces a quick sigil in the air, words of power tumbling from her lips as a tiny bead of orange light streaks from her fingertip toward the cluster of goblins..."
+**Better**: "The red priestess spreads her arms and cries out to R'hllor in High Valyrian, and the brazier fire behind her leaps sideways through the air, a comet of flame streaking toward the raiders — the smallfolk nearby drop to their knees, crying out for the Lord of Light or crossing themselves against the Stranger..."
 
 Consider:
 - **Verbal**: What language? What tone? Ancient words, sung phrases, shouted commands?

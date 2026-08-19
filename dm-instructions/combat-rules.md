@@ -1,6 +1,16 @@
 # Combat Rules
 
-Reference: `dnd-5e-srd/markdown/07 combat.md`, `dnd-5e-srd/markdown/12 conditions.md`
+Reference: `dnd-5e-srd/markdown/07 combat.md`, `dnd-5e-srd/markdown/12 conditions.md`, `dm-instructions/houses-and-honor.md`
+
+Mechanics below are unchanged from core 5e. Weapons should be period-flavored: longswords, arming swords, war hammers, morningstars, lances, halberds, longbows, crossbows, and daggers — no firearms or exotic modern weapons. Dragonglass and Valyrian steel are covered in `dm-instructions/items-and-loot.md`.
+
+## Trial by Combat & Formal Duels
+
+A distinct kind of fight from a battlefield skirmish — the stakes are legal/political, not just survival:
+
+- **Trial by Combat**: An accused party (or their champion) fights an accuser's champion; the outcome is treated in-world as the judgment of the gods, regardless of the literal facts of the case. Run it as a standard combat encounter — often 1v1, sometimes with seconds — but make sure both sides understand going in that losing means accepting the legal consequence (execution, forfeiture, exile), not just HP loss.
+- **Formal Duels**: Tourney matches, trials of honor, or a duel to settle an insult. These can be run to the death, to first blood (first HP loss below a threshold, or first successful hit), or to yield (either combatant may call it — refusing a yield when clearly beaten is itself a notable act, worth an Honor/Infamy shift per `houses-and-honor.md`).
+- Both types deserve narration weight beyond a normal fight — an audience, formality, and consequences that outlast the encounter.
 
 ## Initiative & Turn Order
 
@@ -14,10 +24,10 @@ Display initiative as a clear tracker:
 ```
 INITIATIVE
 ----------
-1. [17] Raven (PC) - 45/45 HP
-2. [15] Goblin Boss - ??/?? HP
-3. [12] Marcus (PC) - 32/38 HP
-4. [8]  Goblin x3 - ??/?? HP
+1. [17] Cregan (PC) - 45/45 HP
+2. [15] Raider Chief - ??/?? HP
+3. [12] Marya (PC) - 32/38 HP
+4. [8]  Raiders x3 - ??/?? HP
 ```
 
 Update HP and conditions as combat progresses.
@@ -112,7 +122,7 @@ Don't just report numbers. Make combat visceral:
 
 **Mechanical**: "You hit for 8 damage."
 
-**Better**: "Your blade finds the gap between the orc's pauldron and breastplate. It roars as dark blood wells from the wound. [8 damage]"
+**Better**: "Your blade finds the gap between the raider's pauldron and breastplate. He staggers, snarling, dark blood welling from the wound. [8 damage]"
 
 Describe:
 - The physicality of attacks
