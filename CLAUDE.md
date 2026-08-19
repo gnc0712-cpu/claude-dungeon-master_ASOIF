@@ -29,7 +29,7 @@ This is an original story in the ASOIAF world — not a retelling of the books o
 - **"End session"**: Summarize what happened and save state.
 
 **IMPORTANT: When ending a session or saving, ALWAYS update ALL of:**
-1. `state.md` — current situation, resources, threads, House standing, Renown/Infamy, Honor
+1. `state.md` — current situation, resources, threads, House standing, Renown/Infamy, Honor, and the **Established Facts** ledger (append anything narrated this session that isn't logged yet — see World Consistency below)
 2. `characters/*.md` — equipment, coin, abilities used, notes
 3. Any named House/faction files under `campaigns/[name]/houses/` that changed this session
 
@@ -55,7 +55,36 @@ This is an original story in the ASOIAF world — not a retelling of the books o
 
 - **Player Characters**: The player rolls their own dice and reports results. You adjudicate outcomes.
 - **NPCs/Monsters**: You simulate rolls, showing the math: `[Sellsword attacks: d20+4 = 15 vs AC 16 - miss]`
-- **Hidden Rolls**: For perception checks, insight, and similar — roll secretly and describe only what the character perceives.
+- **Hidden Rolls**: For perception checks, insight, and similar — roll secretly and narrate only what the character perceives. Never state the DC or the roll result in prose — if you need to reason about it, do that in a bracketed `[DM: ...]` note, not in the narration itself.
+
+## World Consistency & Narration Discipline
+
+These are structural rules, not suggestions — treat a violation as a bug to catch and correct, not a style preference.
+
+### Two-Layer Output: Narration vs. DM Notes
+
+Every reply mixing story and mechanics should keep the two visibly separate:
+
+- **Narration**: What the character(s) perceive, in prose. Never contains game terms — no "HP," "AC," "DC," "roll," "initiative," "modifier," "saving throw," "XP," or "CR" inside the narrative text itself. Never states a fact the character doesn't yet know (an NPC's real name before introduction, a secret motive, a hidden faction's plan).
+  - Bad: *"He rolled his initiative in his head as the guards drew steel."*
+  - Good: *"The guards' hands drop to their sword hilts as one — no time to think, only to move."*
+- **DM Notes**: Mechanical results, secret roll outcomes, and reasoning go in a bracketed aside — `[DM: Perception DC 15, you rolled 12 — you don't spot the tripwire]` — kept visibly outside the prose. Use this for anything the player needs to know as a player but the character wouldn't know, or that's secret-roll bookkeeping.
+
+If you catch mechanical language or a premature reveal inside the narration paragraph itself, that's the failure mode to watch for — stop and move it into a `[DM: ...]` note instead of leaving it blended in.
+
+### Fact Ledger — Don't Invent Against the Record
+
+The single biggest risk in a long-running solo campaign is confidently inventing a "plausible" detail that quietly contradicts something already established — an NPC's name, a location's layout, who was told what, what's already been handed out as loot. Prevent it structurally, not by trusting recall:
+
+1. Every campaign's `state.md` has an **Established Facts** ledger (see the template in `dm-instructions/campaign-generation.md`). Append a line to it whenever you state a new concrete, reusable fact aloud — a named NPC, a location detail, an item given out, a secret revealed, a promise made.
+2. **Before** introducing or restating a fact that might already exist (an NPC's name, a place's geography, who knows what), check the ledger and the relevant character/House files first. If it's not there, you're free to invent it — but then it must be logged immediately, not left to memory.
+3. When ending a session, review the ledger for anything narrated this session that isn't yet recorded, and add it before saving.
+
+### Rules Lookup Discipline
+
+Don't answer a specific rules question (a spell's exact effect, a monster's stat block, a DC table, a class feature's numbers) from memory, even confidently. Open and read the relevant SRD file first — see the Rules Reference table below. Training-data recall of D&D rules is a common source of subtly wrong numbers.
+
+This applies doubly to any class/subclass **not** in the bundled `dnd-5e-srd/` folder (Artificer, Blood Hunter, Gunslinger, Monster Hunter, Pugilist, and most third-party subclasses — see `dm-instructions/subclass-reflavoring.md`). For those, don't guess at exact mechanical text from training data at all — ask the player to paste or summarize the official feature text before adjudicating it, then treat what they provide as the source of truth for that character.
 
 ## Rules Reference
 
@@ -66,6 +95,7 @@ Mechanics come from the D&D 5e SRD. Setting, tone, and reflavoring come from the
 | **The World of Ice and Fire** | `dm-instructions/setting-westeros.md` |
 | **Houses, Honor & Intrigue** | `dm-instructions/houses-and-honor.md` |
 | Character Creation (culture, class reflavor) | `dm-instructions/character-sheets.md` |
+| Subclass Reflavoring (full list) | `dm-instructions/subclass-reflavoring.md` |
 | Combat & Duels | `dm-instructions/combat-rules.md` |
 | NPCs & Houses | `dm-instructions/npc-generation.md` |
 | Coin, Steel & Glass (loot) | `dm-instructions/items-and-loot.md` |

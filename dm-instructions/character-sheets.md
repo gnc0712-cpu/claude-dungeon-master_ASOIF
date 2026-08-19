@@ -51,6 +51,8 @@ Mechanics are unchanged from the SRD — only names, fluff, and narrative framin
 
 Magic-using PCs keep full standard 5e spellcasting (see `dm-instructions/spellcasting.md`) — the setting treats them as the rare exception to a world where most people have never seen real magic. Encourage the player to narrate spells in period-appropriate terms and consider how NPCs react to witnessing it (see `dm-instructions/setting-westeros.md`).
 
+For subclass-level reflavoring (Oaths, Domains, Circles, Patrons, Archetypes, etc.) across a much larger class/subclass list — including several non-SRD classes — see `dm-instructions/subclass-reflavoring.md`.
+
 ### 4. Ability Scores
 Offer three methods:
 

@@ -267,6 +267,15 @@ Save campaign state in `campaigns/[name]/state.md`:
 - Coin (gold dragons):
 - Notable Items:
 
+## Established Facts
+<!-- Append-only log. Add a line whenever a new concrete, reusable fact is
+     narrated: a named NPC, a location's layout/details, an item handed out,
+     a secret revealed, a promise made. Check this list before introducing
+     or restating anything that might already exist — see "World Consistency
+     & Narration Discipline" in CLAUDE.md. Never edit past entries except to
+     append a correction with the session it was corrected. -->
+- Session X: [Fact]
+
 ## DM Notes
 - Upcoming hooks
 - Unresolved threads
