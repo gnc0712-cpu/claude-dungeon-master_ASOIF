@@ -37,8 +37,8 @@
 
 ## Key NPCs & Houses
 - **Yarrow**: Hedge-witch/herb-seller, works out past the mill road from Frostgate. Approached Ragnar in an alley after both felt the same uncanny chill. Speaks the Old Tongue. Current standing: curious, not hostile.
-- **Reyna Vask**: Sellsword, between contracts, met at the Frostgate inn. Watched Ragnar pick the wool merchant's purse and was impressed. Joined as a founding partner (equal say, equal cut) in Ragnar's fledgling mercenary company. Lost a company of her own within the last three years. Current standing: allied.
-- **Garrick Hollis**: Axe-wielding sellsword, recruited at the same inn (Reyna made the pitch). Owes a debt to an unnamed Frostgate lender who "doesn't forgive slow payers kindly" — part of why he wants out of town fast. Joined on the same terms as Reyna (real share, not a wage). Current standing: allied.
+- **Reyna Vask**: Sellsword, between contracts, met at the Frostgate inn. Watched Ragnar pick the wool merchant's purse and was impressed. Joined as a founding partner (equal say, equal cut) in Ragnar's fledgling mercenary company. Lost a company of her own within the last three years. Now knows Ragnar has real, unexplained magic (witnessed his eyes go white on the road) and that he was cast out of an orphanage as a boy for it. Wary but hasn't walked away — wants more answers, not less involvement. Current standing: allied.
+- **Garrick Hollis**: Axe-wielding sellsword, recruited at the same inn (Reyna made the pitch). Owes a debt to an unnamed Frostgate lender who "doesn't forgive slow payers kindly" — part of why he wants out of town fast. Joined on the same terms as Reyna (real share, not a wage). Same as Reyna, now aware Ragnar has real magic and an orphanage past involving it. Current standing: allied.
 
 ## Companions (NPC)
 - **Reyna Vask** — sellsword, founding partner. Full stats not yet needed; roughly Sellsword-to-Veteran competence (see `dm-instructions/npc-generation.md`) until a scene calls for exact numbers.
@@ -71,6 +71,8 @@
 - Session 2: Ragnar leveled up to Warlock 2 (milestone). Gained the spell Cause Fear; the invocations Agonizing Blast and Lessons of the First Ones; and, via Lessons of the First Ones, the Blood Hound origin feat (Motion Sensor, No Hiding). HP set to 17/17 per player's D&D Beyond sheet.
 - Session 2: Ragnar gave a rousing speech to Reyna and Garrick before the company rode out of Frostgate at first light — both bought fully in on "fortune and glory."
 - Session 2: The company set out riding hard (fast pace) north from Frostgate toward Castle Black — roughly six days' hard riding by the road, through open country and the fringe of the Wolfswood, into the Gift.
+- Session 2: On the third night's ride, at the edge of the Wolfswood, Ragnar's dragonglass shard went cold again and he found faint worked carvings near its base he'd never noticed before — one mark closely resembling the shape Yarrow traced for "Sköll." Tracing it, he pushed his own magic into it and made real, brief contact with something vast and distant; it left him wordlessly certain of "not yet" and cost him a level of exhaustion. His eyes reportedly went fully white for a few seconds during the contact, witnessed by Reyna and Garrick.
+- Session 2: Ragnar told Reyna and Garrick a piece of his past: he grew up in an orphanage in or near Frostgate before being cast out — the matron reportedly said he'd been "touched by something evil." He's had unexplained abilities ("things," in his words) since he was a boy.
 
 ## DM Notes
 - **Level-up to Warlock 2 completed at the top of Session 2** (milestone awarded for the Frostgate setup arc: hooked into the central mystery, recruited two founding company members, set a concrete destination).
