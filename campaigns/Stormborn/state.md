@@ -69,6 +69,8 @@
 - Session 1: Reyna Vask and Garrick Hollis both formally joined Ragnar's company as founding partners (equal say, equal cut) at the Frostgate inn. Departure north set for first light.
 - Session 1: Ragnar bought several days' trail provisions at the Frostgate inn before recruiting Reyna and Garrick, spending roughly 4-5 silver stags of his 116 gold dragons.
 - Session 2: Ragnar leveled up to Warlock 2 (milestone). Gained the spell Cause Fear; the invocations Agonizing Blast and Lessons of the First Ones; and, via Lessons of the First Ones, the Blood Hound origin feat (Motion Sensor, No Hiding). HP set to 17/17 per player's D&D Beyond sheet.
+- Session 2: Ragnar gave a rousing speech to Reyna and Garrick before the company rode out of Frostgate at first light — both bought fully in on "fortune and glory."
+- Session 2: The company set out riding hard (fast pace) north from Frostgate toward Castle Black — roughly six days' hard riding by the road, through open country and the fringe of the Wolfswood, into the Gift.
 
 ## DM Notes
 - **Level-up to Warlock 2 completed at the top of Session 2** (milestone awarded for the Frostgate setup arc: hooked into the central mystery, recruited two founding company members, set a concrete destination).
