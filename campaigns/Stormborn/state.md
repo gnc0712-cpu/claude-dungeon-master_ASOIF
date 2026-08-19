@@ -73,6 +73,7 @@
 - Session 2: The company set out riding hard (fast pace) north from Frostgate toward Castle Black — roughly six days' hard riding by the road, through open country and the fringe of the Wolfswood, into the Gift.
 - Session 2: On the third night's ride, at the edge of the Wolfswood, Ragnar's dragonglass shard went cold again and he found faint worked carvings near its base he'd never noticed before — one mark closely resembling the shape Yarrow traced for "Sköll." Tracing it, he pushed his own magic into it and made real, brief contact with something vast and distant; it left him wordlessly certain of "not yet" and cost him a level of exhaustion. His eyes reportedly went fully white for a few seconds during the contact, witnessed by Reyna and Garrick.
 - Session 2: Ragnar told Reyna and Garrick a piece of his past: he grew up in an orphanage in or near Frostgate before being cast out — the matron reportedly said he'd been "touched by something evil." He's had unexplained abilities ("things," in his words) since he was a boy.
+- Session 2: The company reached Castle Black at dusk on the sixth day of hard riding out of Frostgate, riding straight for the gate.
 
 ## DM Notes
 - **Level-up to Warlock 2 completed at the top of Session 2** (milestone awarded for the Frostgate setup arc: hooked into the central mystery, recruited two founding company members, set a concrete destination).
