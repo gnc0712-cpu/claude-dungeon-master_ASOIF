@@ -32,7 +32,7 @@ This repository contains instructions and reference materials that turn Claude i
 - `Show House [name]` - Display a House sheet
 - `Save campaign` / `End session` - Save progress
 
-Your campaign data will be stored in a local `campaigns/` folder (excluded from git).
+Your campaign data is stored in a `campaigns/` folder and committed to git, so it persists across sessions/containers — the DM will commit and push updates as part of saving.
 
 ## Credits
 
