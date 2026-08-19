@@ -9,16 +9,17 @@
 ## House Rules on Record
 - **Ability score stacking**: This campaign uses 2024-style backgrounds (ASI + origin feat come from Background). Culture of Origin (see `dm-instructions/character-sheets.md`) still grants its narrative traits and proficiencies, but does **not** additionally grant an ability score bonus when the character's background already provides one — avoids double-dipping between the two systems. Applies to all future characters in this campaign unless a player specifically wants to run 2014-style rules instead.
 - **Non-SRD class content** (2024 Warlock features, any subclass not in `dnd-5e-srd/`): sourced from what the player provides, not from memory. See `dm-instructions/subclass-reflavoring.md`.
+- **Warlock invocation progression (Ragnar only)**: 1 invocation known at creation (level 1) + 2 more at level 2 (3 total), rather than the SRD's 0 at level 1 / 2 at level 2. Player's build, applies to this character going forward.
 
 ## Current State
-- **Session**: 1 (complete) — next session opens at **first light**, departure from Frostgate
-- **In-Game Date**: Late summer, very late the same night / just before dawn
-- **Location**: Frostgate — a crossroads market town in the North, under a minor landed lord, not a great House seat. Party is at the inn, planning to leave north at first light.
+- **Session**: 2 (in progress) — opens at **first light**, departure from Frostgate
+- **In-Game Date**: Late summer, first light
+- **Location**: Frostgate — a crossroads market town in the North, under a minor landed lord, not a great House seat. Party is departing north toward the Wall.
 
 ## Party
 | Name | Class/Level | HP | Culture | Notes |
 |------|-------------|----|---------|----- |
-| Ragnar Stormborn | Warlock 1 | 10/10 | Valyrian-descended (unknown to him) | Foundling, no House, Wayfarer background |
+| Ragnar Stormborn | Warlock 2 | 17/17 | Valyrian-descended (unknown to him) | Foundling, no House, Wayfarer background |
 
 ## Party Standing
 - **House Standing**: N/A — no House affiliation
@@ -67,9 +68,10 @@
 - Session 1: Yarrow greeted Ragnar with the Old Tongue word "Sköll." Ragnar recognizes it as connected, dimly, to old fireside tales of something ancient and cold — full meaning still unclear to him.
 - Session 1: Reyna Vask and Garrick Hollis both formally joined Ragnar's company as founding partners (equal say, equal cut) at the Frostgate inn. Departure north set for first light.
 - Session 1: Ragnar bought several days' trail provisions at the Frostgate inn before recruiting Reyna and Garrick, spending roughly 4-5 silver stags of his 116 gold dragons.
+- Session 2: Ragnar leveled up to Warlock 2 (milestone). Gained the spell Cause Fear; the invocations Agonizing Blast and Lessons of the First Ones; and, via Lessons of the First Ones, the Blood Hound origin feat (Motion Sensor, No Hiding). HP set to 17/17 per player's D&D Beyond sheet.
 
 ## DM Notes
-- **Next session opens with a level-up to Warlock 2** — player requested this explicitly at session end (milestone leveling, first milestone awarded for the Frostgate setup arc: hooked into the central mystery, recruited two founding company members, set a concrete destination). Handle this before or right at the top of the next session.
+- **Level-up to Warlock 2 completed at the top of Session 2** (milestone awarded for the Frostgate setup arc: hooked into the central mystery, recruited two founding company members, set a concrete destination).
 - Upcoming hooks: Ragnar's Great Old One patron bond should surface gradually through dreams/whispers, not be named until level 3 (player's explicit 2024-rules timing).
 - Unresolved threads: True origin of Ragnar's parentage and the dragonglass shard; what actually happened beyond the Wall the night the Watch found him; who else, if anyone, was out there and didn't survive; why "Sköll" reacted to him and Yarrow simultaneously in the market.
 - Secret information (DM eyes only — do not reveal directly, seed toward it):

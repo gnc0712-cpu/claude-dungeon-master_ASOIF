@@ -2,7 +2,7 @@
 
 ## Basic Info
 - **Culture of Origin**: Valyrian-descended (unknown to him — see Notes)
-- **Class**: Warlock 1 (reflavored: a forbidden-lore-touched wanderer bound to something ancient and unnamed)
+- **Class**: Warlock 2 (reflavored: a forbidden-lore-touched wanderer bound to something ancient and unnamed)
 - **Background**: Wayfarer
 - **House/Family**: None known — a foundling, no House
 - **Alignment**: Chaotic Neutral (working default — adjust through play)
@@ -21,8 +21,8 @@
 
 ## Combat
 - **AC**: 14 (Leather armor: 11 + Dex mod)
-- **HP**: 10 / 10 (max)
-- **Hit Dice**: 1d8
+- **HP**: 17 / 17 (max)
+- **Hit Dice**: 2d8
 - **Speed**: 30 ft.
 - **Initiative**: +3
 - **Proficiency Bonus**: +2
@@ -47,7 +47,12 @@
 **Class — Warlock**
 - Pact Magic (see Spellcasting below)
 - Otherworldly Patron: **bond not yet consciously chosen** — per 2024 rules this locks in at level 3. Something is already reaching for him; it hasn't introduced itself. (Working toward: Great Old One, reflavored as something ancient and cold from beyond the Wall.)
-- Eldritch Invocation known: **Pact of the Blade** — as a Bonus Action, conjure a bonded simple or martial melee weapon; while bonded, use CHA for its attack/damage rolls, deal Necrotic, Psychic, or Radiant damage (or its normal type) at will, and use it as a spellcasting focus. Bond ends if the feature's Bonus Action is used again, the weapon leaves 5 ft. for 1+ minute, or Ragnar dies.
+- Eldritch Invocations known (3 — house-ruled progression: 1 at creation, +2 at level 2, rather than SRD's 0/2):
+  - **Pact of the Blade** — as a Bonus Action, conjure a bonded simple or martial melee weapon; while bonded, use CHA for its attack/damage rolls, deal Necrotic, Psychic, or Radiant damage (or its normal type) at will, and use it as a spellcasting focus. Bond ends if the feature's Bonus Action is used again, the weapon leaves 5 ft. for 1+ minute, or Ragnar dies.
+  - **Agonizing Blast** — add CHA modifier (+4) to Eldritch Blast's damage on a hit.
+  - **Lessons of the First Ones** — grants one Origin feat of choice (non-SRD invocation; player-provided text, treated as source of truth per house rule). Feat chosen: **Blood Hound** (non-SRD Origin feat, player-provided text):
+    - *Motion Sensor*: aware of any Small-or-larger creature that moves within 10 ft. of him while he doesn't have the Unconscious condition.
+    - *No Hiding*: Advantage on Wisdom (Perception) checks that rely on sound or smell.
 
 ## Equipment
 - Leather armor
@@ -68,7 +73,8 @@
 - **Spell Attack Bonus**: +6 (2 proficiency + 4 CHA)
 - **Spell Slots**: 2 × 1st level (all slots same level; recover on short or long rest)
 - **Cantrips Known**: Eldritch Blast, Prestidigitation
-- **Spells Known**: Charm Person, Comprehend Languages
+- **Spells Known**: Charm Person, Comprehend Languages, Cause Fear
+  - *Cause Fear* (1st level Necromancy, Concentration up to 1 min., 60 ft., V only, XGtE p.151): target one creature it can see, WIS save (DC 14) or frightened of Ragnar until the spell ends; target repeats the save at the end of each of its turns. Immune: constructs, undead. Higher slots: +1 target (within 30 ft. of each other) per slot level above 1st.
 
 ## Standing
 - **Honor**: 0
@@ -79,8 +85,10 @@
 Found as a babe north of the Wall, in the middle of the worst snowstorm the Night's Watch had ever recorded — hence the name he was given. His hair had gone nearly white and his eyes nearly purple from the frost when he was found; whoever found him briefly took him for a High Valyrian out of old legend, until he warmed and his coloring settled to its present, more ordinary (if still striking) shade. Brought south to Frostgate and raised there on the streets among other castoffs, some friends, some rivals — odd-looking enough to be stared at, never enough to be claimed by anyone who mattered. Has always kept the dragonglass shard he was found with — it's the one thing that's always felt like it was truly his. Has long wanted to travel south or east and see more of the world than Frostgate, but never yet has.
 
 ## Notes
-- **Session 1 closed**: Recruited Reyna Vask and Garrick Hollis as founding partners of Ragnar's planned mercenary company. Departing Frostgate for the Wall at first light next session. **Level up to Warlock 2 at the start of next session** (milestone awarded).
+- **Session 1 closed**: Recruited Reyna Vask and Garrick Hollis as founding partners of Ragnar's planned mercenary company. Departing Frostgate for the Wall at first light next session.
+- **Session 2 opened**: Leveled up to Warlock 2 (milestone award for the Frostgate arc) before play resumed. Added Cause Fear (spell known), Agonizing Blast and Lessons of the First Ones (invocations), and the Blood Hound origin feat via Lessons of the First Ones. HP set to 17/17 per player's D&D Beyond auto-calculation.
 - **House rule on record**: Culture of Origin grants narrative traits but not a stacking ability bonus when paired with a 2024-style background that already grants its own ASI (avoids double-dipping between the two systems). Documented in `campaigns/Stormborn/state.md`.
+- **House rule on record (invocations)**: This character's invocation progression runs 1 known at creation (level 1) + 2 more at level 2 (3 total), rather than the SRD's 0 at level 1 / 2 at level 2. Player-specified, applies to this character going forward. Documented in `campaigns/Stormborn/state.md`.
 - **Open character-creation items**: alignment (currently a placeholder) — everything else is finalized.
 - **Patron mystery**: dreams and whispers of something old and cold are the seed of the Great Old One bond — this should surface gradually in play, not be named outright until level 3.
 - **Skill list finalized per player's D&D Beyond build** (7 proficiencies, above) rather than reverse-engineered from base class/background — player-reported totals are the source of truth for rolls going forward, per the Dice Rolling Convention in `CLAUDE.md`.
