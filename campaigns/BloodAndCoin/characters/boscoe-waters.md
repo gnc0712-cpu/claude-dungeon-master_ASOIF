@@ -69,7 +69,7 @@
 - Playing cards (tool)
 - Dice set (tool)
 - ~41 gold dragons remaining (started with 50 gp per Pugilist starting equipment)
-- *Does not yet own a Fighting Chain — proficient, but the weapon (500 gp) is well beyond current means; a plausible future prize or loot hook.*
+- **A Fighting Chain**, wound over his knuckles/forearm rather than drawn — player-confirmed he owns and carries one. Given the 500 gp price tag against his ~50 gp starting purse, its origin (heirloom, winnings, theft, gift) is still unexplained — worth surfacing in play rather than assuming.
 
 ## Standing
 - **Honor**: 0

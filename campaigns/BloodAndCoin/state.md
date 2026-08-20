@@ -54,6 +54,8 @@
 - Session 0 (setup): Boscoe Waters is a Crownlands-born Andal bastard (surname "Waters"), no known House, raised rough, self-taught pit fighter — no formal training school, survives on grit and dirty tricks (Piss and Vinegar).
 - Session 0 (setup): The Long Truce era backdrop — House Rosthane holds the Iron Throne; House Vantry rose against them a generation ago and lost, the peace sealed by Lady Wynafryd Rosthane's marriage to Ser Balon Vantry.
 - Session 0 (setup): The Rat's Nest is an illegal fighting pit beneath a defunct tannery near Flea Bottom, run by Symond Crake, known in the pits as "Old Sallow."
+- Session 1: The Rat's Nest runs its matches to first knockdown-and-stay-down or first yield, not to the death — Sallow's stated house rule, since dead fighters don't draw repeat crowds.
+- Session 1 (correction): Boscoe does in fact own a Fighting Chain, worn wound over his knuckles/forearm rather than drawn — corrects the Session 0 assumption that he was proficient but didn't own one. Its origin (500 gp item against a ~50 gp starting purse) is unexplained and unconfirmed.
 
 ## DM Notes
 - Upcoming hooks: introduce a rival, better-funded pit (quietly bankrolled by Vantry money) muscling in on Old Sallow's turf; a recent fight where a fighter who was supposed to "take a dive" died for real, and someone wants that buried before it exposes who's really bankrolling which side.
