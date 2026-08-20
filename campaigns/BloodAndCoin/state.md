@@ -27,10 +27,10 @@
 - **Infamy**: 0
 
 ## Active Quests
-- [ ] (To be established at the top of Session 1)
+- [ ] (Open, not accepted) Sallow's ask: find out who's really bankrolling the Bleeding Rose, and what really happened to Denny Coswell. Boscoe demurred for now — offer still stands.
 
 ## Recent Events
-- Session 1 has not yet begun.
+- Session 1: Boscoe fought and won his bout at the Rat's Nest against a bruiser known as Garrow, taking a solid hit himself but flooring him first. Collected his 15-dragon purse from Sallow, who pulled him aside after with a private ask: a fighter named Denny Coswell died mysteriously after what should've been a harmless fixed match two weeks back, and a suspiciously well-funded new pit, the Bleeding Rose, has been poaching fighters and bettors with money that doesn't behave like merchant coin. Boscoe didn't take the job, but didn't close the door either. Patched up and turned in for the night.
 
 ## Key NPCs & Houses
 - **House Rosthane**: Holds the Iron Throne this era. Publicly at peace with House Vantry since the Long Truce marriage. Standing: distant, background power.
@@ -38,8 +38,8 @@
 - **Symond Crake ("Old Sallow")**: Runs the Rat's Nest — recruits fighters, sets odds, keeps the City Watch paid to look elsewhere. Current standing: Boscoe's employer/handler, transactional.
 
 ## Party Resources
-- Coin: ~41 gold dragons
-- Notable Items: 2 daggers, a set of playing cards, a set of loaded dice, a backpack and bedroll. Proficient with (but does not own) a Fighting Chain — a 500-gold-dragon weapon well beyond current means.
+- Coin: ~56 gold dragons
+- Notable Items: a Fighting Chain (worn wound over the knuckles/forearm rather than drawn — origin unexplained), 2 daggers, a set of playing cards, a set of loaded dice, a backpack and bedroll.
 
 ## Leveling
 - **Method**: Milestone — DM calls level-ups at story beats, not tracked XP totals.
@@ -56,6 +56,9 @@
 - Session 0 (setup): The Rat's Nest is an illegal fighting pit beneath a defunct tannery near Flea Bottom, run by Symond Crake, known in the pits as "Old Sallow."
 - Session 1: The Rat's Nest runs its matches to first knockdown-and-stay-down or first yield, not to the death — Sallow's stated house rule, since dead fighters don't draw repeat crowds.
 - Session 1 (correction): Boscoe does in fact own a Fighting Chain, worn wound over his knuckles/forearm rather than drawn — corrects the Session 0 assumption that he was proficient but didn't own one. Its origin (500 gp item against a ~50 gp starting purse) is unexplained and unconfirmed.
+- Session 1: Boscoe defeated a pit bruiser named Garrow at the Rat's Nest, winning 15 gold dragons. Garrow survived, badly beaten.
+- Session 1: Sallow named a fighter, Denny Coswell (missing half a finger), who died the same night as a "soft" (fixed) match two weeks ago that should not have hurt him badly — officially ruled a bad heart by a paid maester, which Sallow doesn't believe.
+- Session 1: A new, suspiciously well-funded pit called the Bleeding Rose has opened past the river district, publicly fronted by a Free Cities (claimed Lysene) merchant, poaching fighters and bettors from the Rat's Nest. One of Sallow's runners saw the Rose's actual paymaster wearing an unrecognized signet ring.
 
 ## DM Notes
 - Upcoming hooks: introduce a rival, better-funded pit (quietly bankrolled by Vantry money) muscling in on Old Sallow's turf; a recent fight where a fighter who was supposed to "take a dive" died for real, and someone wants that buried before it exposes who's really bankrolling which side.
@@ -63,3 +66,5 @@
 - Secret information (DM eyes only — do not reveal directly, seed toward it):
   - Working theory: the fighter who died "by accident" during a fixed match was actually silenced because he'd figured out a Rosthane agent was laundering intelligence money through betting slips at a rival pit. Old Sallow suspects something is wrong but doesn't have proof yet, and is nervous about asking too loudly.
   - Neither Rosthane nor Vantry as Houses are aware the party exists yet — any entanglement so far is through low-level agents/bettors, not the Houses directly. Keep it that way until the party's actions actually escalate it.
+  - **Player-established (session 1), DM-eyes-only until revealed in play**: Boscoe Waters is, unknown to himself and everyone else in the fiction so far, the secret eldest (bastard, and therefore non-inheriting) son of the current reigning King — presumptively a Rosthane, since House Rosthane holds the Iron Throne this era. Nobody currently in the story (Sallow, Reyna-equivalent NPCs, anyone) knows this. Seed it gradually — a stranger's too-long stare, an old woman flinching at his face, a resemblance someone half-notices and dismisses — rather than revealing it outright. No mechanical effect until/unless it surfaces in fiction. Not yet connected to the Bleeding Rose/Denny Coswell mystery, but a very plausible thread to tie in later if it fits (e.g., someone hunting the mystery stumbles onto him for unrelated reasons).
+  - Working identity for the ruling dynasty: the current King is a Rosthane (name/number not yet fixed — decide when it first matters in play, e.g. "King Aldric Rosthane" as a placeholder). Confirm/adjust before the first scene that needs the king named on-page.

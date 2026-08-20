@@ -22,7 +22,7 @@
 
 ## Combat
 - **AC**: 14 (Iron Chin: 12 + Con modifier, while unarmored/light armor and no shield)
-- **HP**: 12 / 12 (max) — 1d10 + Con mod at 1st level
+- **HP**: 12 / 12 (max, after a night's rest) — 1d10 + Con mod at 1st level
 - **Hit Dice**: 1d10
 - **Speed**: 30 ft.
 - **Initiative**: +3
@@ -68,7 +68,7 @@
 - Traveler's clothes
 - Playing cards (tool)
 - Dice set (tool)
-- ~41 gold dragons remaining (started with 50 gp per Pugilist starting equipment)
+- ~56 gold dragons (started with 50 gp, won 15 gp for defeating Garrow at the Rat's Nest, minus starting gear)
 - **A Fighting Chain**, wound over his knuckles/forearm rather than drawn — player-confirmed he owns and carries one. Given the 500 gp price tag against his ~50 gp starting purse, its origin (heirloom, winnings, theft, gift) is still unexplained — worth surfacing in play rather than assuming.
 
 ## Standing
@@ -80,6 +80,7 @@
 Boscoe Waters carries a Crownlands bastard's name and none of a highborn father's other acknowledgment — whatever the truth of his getting, it's never been spoken aloud to him by anyone who'd know. Raised rough, likely around King's Landing's poorer quarters, he found his way into the city's illegal fighting pits with no formal training and no patron — just a willingness to take a beating and a knack for making sure he gave worse than he got. Known in the Rat's Nest and pits like it as an underdog who keeps climbing back up, he survives on grit, dirty tricks, and the occasional lucky die roll rather than technique or bloodline.
 
 ## Notes
+- **Secret parentage (player-established, session 1)**: Boscoe is, unknown to him and everyone else in the fiction so far, the secret eldest (bastard) son of the current reigning King — presumptively a Rosthane. Not revealed in play yet, no mechanical effect; will surface gradually per DM Notes in `state.md`.
 - **Background sourcing**: Player-supplied, a 2024-rules background from *Grim Hollow: Character Guide*, reflavored to Westeros by the player. Full background name/mechanics beyond ASI/feat/skills/tool not yet given — treat anything further as unconfirmed until the player specifies it.
 - **Fighting Chain**: non-SRD martial weapon (2024-style Mastery property "Disarming") — full stat block on record: reach 10 ft., 1d4+4 bludgeoning, 3 lb., 500 gp, properties double/finesse/two-handed/reach/disarming.
 - **Open items**: Piss and Vinegar subclass mechanics beyond the concept; whether Boscoe fights under a pit alias/nickname (offer this in the opening scene rather than assume one).
